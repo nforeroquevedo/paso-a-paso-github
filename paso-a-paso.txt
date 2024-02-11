@@ -3,3 +3,5 @@
 2. Iniciar git desde la carpeta del proyecto, primero hay que abrir el cmd o git bash, desde la ubicacion de la carpeta y luego desde la terminal, se usa el comando "git init"
 
 3. Abrir la carpeta del proyecto con VS Code o cualquier editor de texto, y editar los archivos necesarios
+
+4. Agregar los archivos a git, desde la terminal, con la ubicacion de la carpeta del proyecto, usar el comando "git add (el nombre del archivo)" o si se necesitan subir todos los archivos seria "git add ."
