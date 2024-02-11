@@ -7,3 +7,5 @@
 4. Agregar los archivos a git, desde la terminal, con la ubicacion de la carpeta del proyecto, usar el comando "git add (el nombre del archivo)" o si se necesitan subir todos los archivos seria "git add ."
 
 5. Hacer commit a git, desde la terminal, con la ubicacion del proyecto usar el comando "git commit -m 'el mensaje que quiera que aparesca'"
+
+6. Crear repositorio en github.com con el nombre del proyecto que necesite y copiar el comando "git remote add origin (nombre-del-proyecto)"
