@@ -9,3 +9,5 @@
 5. Hacer commit a git, desde la terminal, con la ubicacion del proyecto usar el comando "git commit -m 'el mensaje que quiera que aparesca'"
 
 6. Crear repositorio en github.com con el nombre del proyecto que necesite y copiar el comando "git remote add origin (nombre-del-proyecto)"
+
+7. pegar el comando de "git remote add origin" en la terminal, finalmente, usar el comando git push -u master, y con eso ya quedaria subido en el repositorio en github.com con el nombre del proyecto
