@@ -5,3 +5,5 @@
 3. Abrir la carpeta del proyecto con VS Code o cualquier editor de texto, y editar los archivos necesarios
 
 4. Agregar los archivos a git, desde la terminal, con la ubicacion de la carpeta del proyecto, usar el comando "git add (el nombre del archivo)" o si se necesitan subir todos los archivos seria "git add ."
+
+5. Hacer commit a git, desde la terminal, con la ubicacion del proyecto usar el comando "git commit -m 'el mensaje que quiera que aparesca'"
