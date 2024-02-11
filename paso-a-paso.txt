@@ -1,0 +1,1 @@
+1. Crear carpeta del proyecto, puede ser usando "mkdir" desde la terminal, o simplemente crear una carpeta de la manera comun desde el explorador de archivos
